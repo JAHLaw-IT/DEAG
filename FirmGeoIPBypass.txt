@@ -5,3 +5,4 @@ bwpartners.sk
 aktz.cz
 edcardaruba.aw
 redcrosslearningcenter.org
+api.appinium.com
